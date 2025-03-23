@@ -1,0 +1,6 @@
+*.db
+*tdbdata
+*.egg-info
+__pycache__
+bin_demo.toml
+*.pyc

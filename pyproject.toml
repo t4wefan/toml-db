@@ -1,0 +1,18 @@
+[project]
+name = "t4wefan-tomldb"
+version = "0.1.7"
+description = "A simple db using toml and pickle and dill."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dill",
+    "filelock",
+    "setuptools",
+    "toml",
+]
+
+[dependency-groups]
+dev = [
+    "pillow>=11.1.0",
+]
+pypi-AgEIcHlwaS5vcmcCJGU0NzQ0MDQ5LWFmMjQtNDU0Mi05OWRmLWNlNzJmMDZkZjliNgACFlsxLFsidDR3ZWZhbi10b21sZGIiXV0AAixbMixbIjgwN2RjYzE1LTU0ZWYtNDZlOC1hODYwLTViOGQ4YzI2MDFiZiJdXQAABiAyNhjs9Vis4RijGtBcQMUFF4fSkIy_YNm3DJ9rbO4bWQ
